@@ -1,0 +1,103 @@
+body {
+  background-color:blanchedalmond;
+}
+
+h6 {
+  font-family: monospace;
+  color: black;
+  letter-spacing: 2px;
+}
+
+nav {
+  font-family: sans-serif;
+  }
+.nature_nav {
+  color:coral;
+}
+
+h1{
+  font-style: italic;
+  font-size: 40px;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+.homepage_bird {
+  color:cadetblue;
+}
+
+img{
+  width:200px;
+  border-radius: 15px;
+}
+
+.homepage_img {
+  border:solid;
+  border-color: cadetblue;
+  border-width: 12px;
+  
+}
+
+.homepage_p {
+  font-size:15px;
+  text-align:justify;
+}
+
+h2 {
+  font-size:30px;
+  color:goldenrod;
+  text-decoration: underline solid 4px;
+}
+
+.nature_h2 {
+  text-align:center;
+}
+
+.nature_h3 {
+  color:rgb(118, 20, 156);
+}
+
+.nature_p {
+  font-size: 20px;
+  color:chocolate;
+  }
+
+.flower_field {
+  float:right;
+  border:dotted;
+  border-color: mediumpurple;
+  border-width: 5px;
+}
+
+.flower_h6 {
+  text-align: right;
+}
+
+.seasons_h3 {
+  color: blue;
+  letter-spacing: 4px;
+  text-decoration: underline double;
+}
+
+h4 {
+  color:orangered
+}
+
+.autumn_img{
+  border: solid;
+  border-width: 12px;
+  border-color: orangered;
+}
+
+.spring_img {
+  border: solid;
+  border-radius: 60px;
+  border-width: 15px;
+  border-color: hotpink;
+  }
+
+.spring_p {
+  color: hotpink;
+}
