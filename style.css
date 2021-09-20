@@ -1,5 +1,5 @@
 .header { grid-area: header; }
-.nav { grid-area: nav; }
+.aside { grid-area: aside; }
 .article { grid-area: article; }
 .section { grid-area: section; }
 .footer { grid-area: footer; }
@@ -7,15 +7,15 @@
 .grid-container {
   display: grid;
   grid-template-areas:
-    'nav header header header header header'
-    'nav article article article section section'
-    'nav footer footer footer footer footer';
+    'aside header header header header header'
+    'aside article article article section section'
+    'aside footer footer footer footer footer';
   grid-gap: 10px;
   background-color: #2196F3;
   padding: 10px;
 }
 
-.grid-container div, header, nav, article, section, footer {
+.grid-container div, header, aside, article, section, footer {
   background-color: rgba(255, 255, 255, 0.8);
   text-align: center;
   padding: 20px 0;
